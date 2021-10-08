@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a036f99ae423347ede79fac31d91891a",
+    "revision": "2253fa953380ecfcf802f25fa20e67e1",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "5108c4b8582fcee88db1",
-    "url": "/developerFolio/static/css/3.00373544.chunk.css"
+    "revision": "1c5eb8f51b9155adeee2",
+    "url": "/developerFolio/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "b5208f855851ef18d332",
-    "url": "/developerFolio/static/css/4.3e7d09e6.chunk.css"
+    "revision": "9037be1dea4ffdd7dc91",
+    "url": "/developerFolio/static/css/4.ea3dbbf2.chunk.css"
   },
   {
-    "revision": "18b30ee1cf76b029e15d",
-    "url": "/developerFolio/static/css/main.a0eeb0b7.chunk.css"
+    "revision": "12ecf9b90069a72ee885",
+    "url": "/developerFolio/static/css/main.92083bbe.chunk.css"
   },
   {
     "revision": "2cb03b4b45b1159c1fe7",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/2.da7372d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5108c4b8582fcee88db1",
+    "revision": "1c5eb8f51b9155adeee2",
     "url": "/developerFolio/static/js/3.a0d5ec63.chunk.js"
   },
   {
-    "revision": "b5208f855851ef18d332",
+    "revision": "9037be1dea4ffdd7dc91",
     "url": "/developerFolio/static/js/4.53a772fb.chunk.js"
   },
   {
-    "revision": "18b30ee1cf76b029e15d",
-    "url": "/developerFolio/static/js/main.f6e91115.chunk.js"
+    "revision": "12ecf9b90069a72ee885",
+    "url": "/developerFolio/static/js/main.00e33c28.chunk.js"
   },
   {
-    "revision": "e8218c7538923afe6128",
-    "url": "/developerFolio/static/js/runtime-main.e8adb330.js"
+    "revision": "276534d34a69d8e5c72b",
+    "url": "/developerFolio/static/js/runtime-main.de036757.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -80,7 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/skill.34409398.svg"
   },
   {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
+    "revision": "39eff4a91b01e00a32cb78f3797eec88",
+    "url": "/developerFolio/static/media/talksCardBack.39eff4a9.svg"
   }
 ]);
